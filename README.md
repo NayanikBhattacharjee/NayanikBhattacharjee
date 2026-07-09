@@ -1,5 +1,5 @@
-## Hi there 👋
-
+### My Coding Languages 
+![My Github Stats](https://vercel.app)
 <!--
 **NayanikBhattacharjee/NayanikBhattacharjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
