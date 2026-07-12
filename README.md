@@ -1,10 +1,10 @@
 # Hi, I'm Nayanik Bhattacharjee 👋
 
-I'm a software builder focused on Android development, backend systems, databases, clean UI/UX, and practical full-stack products.
+I'm a software builder focused on Android development, backend systems, business software, RF technology, network tracking, RF planning concepts, databases, and clean UI/UX.
 
-I like building useful software with strong architecture, safe data handling, and real-world usability.
+I like building practical software with strong architecture, safe data handling, and real-world usability.
 
-Some of my work is private or still in development, so I do not share every idea publicly.
+Some of my work, product ideas, and future plans are private, so I keep this profile high-level.
 
 ---
 
@@ -13,9 +13,9 @@ Some of my work is private or still in development, so I do not share every idea
 - I build Android apps using Kotlin and Jetpack Compose.
 - I work with backend systems using Java and Spring Boot.
 - I design local-first and cloud-ready app architectures.
-- I care about clean UI, reliable data, and practical product workflows.
-- I like working on mobile apps, backend APIs, databases, and product systems.
-- I am continuously improving my development, design, and product-building skills.
+- I work with databases, APIs, authentication flows, and backup/restore systems.
+- I am interested in RF technology, telecom tools, network tracking, and RF planning workflows.
+- I care about clean UI, reliable data, product quality, and real-world testing.
 
 ---
 
@@ -51,7 +51,7 @@ Some of my work is private or still in development, so I do not share every idea
 ![Room Database](https://img.shields.io/badge/Room%20Database-111111?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DataStore](https://img.shields.io/badge/DataStore-111111?style=for-the-badge&logo=android&logoColor=3DDC84)
 
-### Tools & Platforms
+### Dev Tools
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-111111?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
@@ -60,12 +60,47 @@ Some of my work is private or still in development, so I do not share every idea
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-### Other Skills
+---
 
-![UI UX](https://img.shields.io/badge/UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![PDF Generation](https://img.shields.io/badge/PDF%20Generation-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)
-![API Design](https://img.shields.io/badge/API%20Design-111111?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-![Database Design](https://img.shields.io/badge/Database%20Design-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+## RF & Telecom Knowledge
+
+I am also interested in RF technology, telecom engineering concepts, and mobile network tools.
+
+### RF / Network Tracking
+
+![LTE](https://img.shields.io/badge/LTE-111111?style=for-the-badge&logo=signal&logoColor=white)
+![5G](https://img.shields.io/badge/5G-111111?style=for-the-badge&logo=signal&logoColor=00BFFF)
+![Network Tracking](https://img.shields.io/badge/Network%20Tracking-111111?style=for-the-badge&logo=android&logoColor=3DDC84)
+![RF Metrics](https://img.shields.io/badge/RF%20Metrics-111111?style=for-the-badge&logo=telegraph&logoColor=white)
+
+Knowledge areas:
+
+- LTE and 5G network concepts
+- Signal tracking concepts
+- Serving cell and neighbor cell concepts
+- RSRP, RSRQ, SINR, PCI, TAC, EARFCN, and NRARFCN
+- Field testing and route logging concepts
+- Mobile network observation workflows
+- Android telephony API direction
+- RF dashboard and tracker UI design
+
+### RF Planning
+
+![RF Planning](https://img.shields.io/badge/RF%20Planning-111111?style=for-the-badge&logo=radar&logoColor=00BFFF)
+![Coverage Planning](https://img.shields.io/badge/Coverage%20Planning-111111?style=for-the-badge&logo=mapbox&logoColor=white)
+![Telecom](https://img.shields.io/badge/Telecom-111111?style=for-the-badge&logo=ericsson&logoColor=white)
+![Engineering](https://img.shields.io/badge/Engineering-111111?style=for-the-badge&logo=databricks&logoColor=white)
+
+Knowledge areas:
+
+- RF planning workflow concepts
+- Site planning
+- Sector planning
+- Coverage planning
+- Azimuth, beamwidth, tilt, and antenna direction concepts
+- Planning reports
+- Network design workflow direction
+- Field-to-planning workflow understanding
 
 ---
 
@@ -83,7 +118,9 @@ Some of my work is private or still in development, so I do not share every idea
 - Authentication flows
 - Data backup and restore systems
 - Safe database migrations
-- Product-level UI/UX improvements
+- RF tracker concepts
+- RF planner concepts
+- Telecom software workflows
 
 ---
 
@@ -115,6 +152,7 @@ I care about:
 - UI/UX polish
 - Testing and release workflows
 - Git and GitHub project management
+- RF technology and telecom software concepts
 
 ---
 
@@ -131,7 +169,7 @@ I care about:
 ![GitHub](https://img.shields.io/badge/GitHub-NayanikBhattacharjee-111111?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- Add your public email only if you want it visible on GitHub -->
-<!-- Email: your-email@example.com -->
+ Email: bhattacharjeenayanik@gmail.com 
 
 ---
 
